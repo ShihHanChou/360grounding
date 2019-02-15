@@ -22,3 +22,25 @@ git clone https://github.com/ShihHanChou/360grounding.git
 * Download our [dataset](https://github.com/ShihHanChou/360grounding/blob/master/README.md#dataset)
 
 # Dataset
+Please download the dataset [here](https://goo.gl/forms/9DRj4jvWDyRCIsxh2) and place it under `./data`.
+
+# Usage
+* To train a model with downloaded dataset:
+```
+python main.py --batch_size $batch_size$ --epoches $#epoches$ --save_dir $save_directory$ --mode train --video_len $video_sample_length$ --MAX_LENGTH 33
+```
+* To test a model with downloaded dataset:
+```
+python main.py --batch_size $batch_size$ --epoches $which_epoches$ --save_dir $save_directory$ --mode test --MAX_LENGTH 30
+```
+
+# Cite
+If you find our code useful for your research, please cite
+```
+@inproceedings{chou2018self,
+  title={Self-view grounding given a narrated 360 video},
+  author={Chou, Shih-Han and Chen, Yi-Chun and Zeng, Kuo-Hao and Hu, Hou-Ning and Fu, Jianlong and Sun, Min},
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+  year={2018}
+}
+```
