@@ -6,7 +6,7 @@ Association for the Advancement of Artificial Intelligence (AAAI) ,2018
 Official Implementation of AAAI 2018 paper "Self-view Grounding Given a Narrated 360° Video" in Pytorch.
 
 Project page: [http://aliensunmin.github.io/project/360grounding/](http://aliensunmin.github.io/project/360grounding/)  
-Paper: [ArXiv](https://arxiv.org/abs/1711.08664)
+Paper: [ArXiv](https://arxiv.org/abs/1711.08664), [Open Assess](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16724)
 
 # Prerequisites
 * Linux  
