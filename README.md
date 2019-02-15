@@ -7,3 +7,18 @@ Official Implementation of AAAI 2018 paper "Self-view Grounding Given a Narrated
 
 Project page: [http://aliensunmin.github.io/project/360grounding/](http://aliensunmin.github.io/project/360grounding/)  
 Paper: [ArXiv](https://arxiv.org/abs/1711.08664)
+
+# Prerequisites
+* Linux  
+* NVIDIA GPU + CUDA 7.0 + CuDNNv5.1  
+* Python 2.7 with numpy  
+* Pytorch 0.3.0  
+
+# Getting Started
+* Clone this repo
+```
+git clone https://github.com/ShihHanChou/360grounding.git
+```
+* Download our [dataset](./Dataset)
+
+# Dataset
