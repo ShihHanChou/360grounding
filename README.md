@@ -19,6 +19,6 @@ Paper: [ArXiv](https://arxiv.org/abs/1711.08664)
 ```
 git clone https://github.com/ShihHanChou/360grounding.git
 ```
-* Download our [dataset](./Dataset)
+* Download our [dataset](https://github.com/ShihHanChou/360grounding/blob/master/README.md#dataset)
 
 # Dataset
