@@ -17,7 +17,10 @@ Paper: [ArXiv](https://arxiv.org/abs/1711.08664), [AAAI18](https://aaai.org/ocs/
 # Getting Started
 * Clone this repo
 ```
-git clone https://github.com/ShihHanChou/360grounding.git
+git clone https://github.com/ShihHanChou/360grounding.git  
+cd 360grounding
+mkdir data
+mkdir data/trained_model
 ```
 * Download our [dataset](https://github.com/ShihHanChou/360grounding/blob/master/README.md#dataset)
 
